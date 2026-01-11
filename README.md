@@ -135,16 +135,6 @@ flutter test test/screens/
 - Suppression des photos
 - Optimisation (pour que l'appli soit moint lente, chargement pendant animation du rideau...)
 
-## Aperçues
+## Aperçus
 
-### Menu principal
-
-![Menu principal](asset/readme/menu.png)
-
-### Écran de prise de photo
-
-![Écran de prise de photo](asset/readme/cabine.png)
-
-### Journal des photos
-
-![Journal des photos](asset/readme/album.png)
+![Aperçu](asset/readme/oui.png)
