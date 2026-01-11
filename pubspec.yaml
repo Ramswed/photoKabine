@@ -1,0 +1,73 @@
+name: photobooth
+description: Une application iOS immersive pour prendre des photos vintages dans un photobooth.
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  path_provider: ^2.1.1
+  camera: ^0.10.5+5
+  permission_handler: ^11.1.0
+  intl: ^0.19.0
+  google_fonts: ^6.1.0
+  gal: ^2.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  hive_generator: ^2.0.1
+  build_runner: ^2.4.7
+  mockito: ^5.4.4
+  path_provider_platform_interface: ^2.1.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - asset/img/background/Illustration_sans_titre.png
+    - asset/img/background/album.png
+    - asset/img/background/cabine.png
+    - asset/img/background/retour/flechealbum.png
+    - asset/img/background/retour/flechealbumclic.png
+    - asset/img/background/retour/flechecabine.png
+    - asset/img/background/retour/flechecabineclic.png
+    - asset/img/rideau/rideau.png
+    - asset/img/rideau/rideauclique.png
+    - asset/img/panneau/panneau.png
+    - asset/img/panneau/panneauclique.png
+    - asset/img/rideauanim/frm1.PNG
+    - asset/img/rideauanim/frm2.PNG
+    - asset/img/rideauanim/frm3.PNG
+    - asset/img/rideauanim/frm4.PNG
+    - asset/img/rideauanim/frm5.PNG
+    - asset/img/rideauanim/frm6.PNG
+    - asset/img/rideauanim/frm7.PNG
+    - asset/img/rideauanim/frm8.PNG
+    - asset/img/rideauanim/frm9.PNG
+    - asset/img/rideauanim/frm10.PNG
+    - asset/img/rideauanim/frm11.PNG
+    - asset/img/rideauanim/frm12.PNG
+    - asset/img/rideauanim/frm13.PNG
+    - asset/img/rideauanim/frm14.PNG
+    - asset/img/rideauanim/frm15.PNG
+    - asset/img/rideauanim/frm16.PNG
+    - asset/img/rideauanim/frm17.PNG
+    - asset/img/rideauanim/frm18.PNG
+    - asset/img/rideauanim/frm19.PNG
+    - asset/img/rideauanim/frm20.PNG
+    - asset/img/rideauanim/frm21.PNG
+    - asset/img/boutons/hg.png
+    - asset/img/boutons/hgclic.png
+    - asset/img/boutons/hd.png
+    - asset/img/boutons/hdclic.png
+    - asset/img/boutons/bg.png
+    - asset/img/boutons/bgclic.png
+    - asset/img/boutons/bd.png
+    - asset/img/boutons/bdclic.png
