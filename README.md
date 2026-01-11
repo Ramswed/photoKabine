@@ -33,7 +33,7 @@ flutter pub run build_runner build --delete-conflicting-outputs
 flutter run
 ```
 
-## 📁 Structure du projet
+## Structure du projet
 
 ```
 lib/
